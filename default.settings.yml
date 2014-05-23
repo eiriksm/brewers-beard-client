@@ -1,0 +1,5 @@
+default:  
+  key: 123
+  interval: 1000
+  host: localhost
+  port: 3000
